@@ -40,12 +40,11 @@
 - Non-DeKUT Students: KES 22,000
   
 - The fee includes:
-  - Registration costs
   - Training sessions
   - Tutorials
   - Practical assessments
-  - Examination fees
-  - Certification upon completion
+  - Training examination fees
+  - Training certificate 
 
 ## Registration
 - To enrol in the CCNA course, follow these steps:
