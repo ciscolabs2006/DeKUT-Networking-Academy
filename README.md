@@ -55,16 +55,14 @@
 
 ## Registration
 - To enroll in the CCNA course, follow these steps:
-   - Please register via this [link](https://forms.gle/1bpUffqg1vHg8DE56).
-   - Details of the current intake and upcoming intakes are included on the registration form.
-   - Pay the Registration Fee [here](https://dekutservices.dkut.ac.ke/Payment/ApplicationFeePayment)
-     then proceed to provide enter your details via this [link](https://admissions.dkut.ac.ke/courses/123).
-   - Pay a non-refundable registration fee of KES 500 via the DeKUT Payment Platform.
+   - Pay the Registration Fee (KES 500) via the following link  [here](https://dekutservices.dkut.ac.ke/Payment/ApplicationFeePayment)
+     then
+  - Register for the course by providing student details via this [link](https://admissions.dkut.ac.ke/courses/123).
 
 ## Upcoming Intake:
 - Start Date: 1st October 2024
-- Ensure you complete the registration process before the start date to secure your spot.
-
+- Ensure you complete the registration process before the start date.
+- 
 ## Contact Information
 - For any inquiries or additional information, feel free to reach out: Email: ciscoacademy@dkut.ac.ke
 - [WhatsApp Group](https://chat.whatsapp.com/EgKFnUMCXWFKs2YuWTIU2H): Join the DeKUT Cisco Networking Academy WhatsApp Group for updates and community support.
