@@ -1,6 +1,6 @@
 ## Introduction
-- The CCNA (Cisco Certified Network Associate) course is a comprehensive program designed to equip students with fundamental and advanced networking skills. Over the span of three months, participants will explore various aspects of networking, including routing and switching technologies, WAN technologies, infrastructure services, security fundamentals, and network programmability. The course combines virtual lectures, hands-on labs, and real-world scenarios to prepare students thoroughly for the CCNA certification exam.
-- You can learn more of CCNA [here](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html).
+- The CCNA (Cisco Certified Network Associate) course is a comprehensive program designed to equip students with fundamental and advanced networking skills. Over three months, participants will explore various networking aspects, including routing and switching technologies, WAN technologies, infrastructure services, security fundamentals, and network programmability. The course combines virtual lectures, hands-on labs, and real-world scenarios to prepare students thoroughly for the CCNA certification exam.
+- You can read more about CCNA [here](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html).
 
 ## What is CCNA?
 - CCNA stands for Cisco Certified Network Associate, a globally recognized certification offered by Cisco Systems, the world's leading networking equipment manufacturer. This certification validates your ability to install, configure, operate, and troubleshoot medium-sized routed and switched networks.
@@ -23,7 +23,7 @@
 - <b>Foundation for Advanced Certifications</b>: CCNA serves as a prerequisite for advanced Cisco certifications, enabling you to specialize in areas like cybersecurity, cloud networking, and more.
 
 ## Entry Requirements
-- For DeKUT Students: All registered DeKUT students enrolled in any diploma or undergraduate course are eligible to enroll.
+- For DeKUT Students: All registered DeKUT students enrolled in any diploma or undergraduate course are eligible to enrol.
 - For Non-DeKUT Students: Must have completed KCSE or equivalent educational qualification.
   
 ## Mode of Learning
@@ -44,7 +44,7 @@
 
 ## Course Fees
 - DeKUT Students: KES 18,000
-- Non-DeKUT Students: KES 22,500
+- Non-DeKUT Students: KES 22,000
 - The fee includes:
   - Registration costs
   - Training sessions
