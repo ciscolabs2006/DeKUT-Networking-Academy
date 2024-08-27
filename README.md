@@ -27,24 +27,18 @@
 - For Non-DeKUT Students: Must have completed KCSE or equivalent educational qualification.
   
 ## Mode of Learning
-- The course offers flexible learning modes to cater to different needs:
 
 ###A. Online Classes
-- Schedule: Tuesdays to Thursdays, 5:30 PM to 6:30 PM.
+- Schedule: Tuesdays, 5:30 PM to 6:30 PM.
 - Duration: 3 months.
 - Requirements:
   - Access to a laptop or PC.
   - Reliable internet connection.
     
-###B. Physical Classes 
-- Schedule: Tuesdays to Thursdays, 10:30 AM to 1:00 PM.
-- Duration: 3 months.
-- Location: <b>DeKUT campus</b> (specific venue details will be provided upon registration).
-- Note: Students can choose the mode that best fits their schedule and learning preferences.
-
 ## Course Fees
 - DeKUT Students: KES 18,000
 - Non-DeKUT Students: KES 22,000
+  
 - The fee includes:
   - Registration costs
   - Training sessions
@@ -54,7 +48,7 @@
   - Certification upon completion
 
 ## Registration
-- To enroll in the CCNA course, follow these steps:
+- To enrol in the CCNA course, follow these steps:
    - Pay the Registration Fee (KES 500) via the following link  [here](https://dekutservices.dkut.ac.ke/Payment/ApplicationFeePayment)
      then
   - Register for the course by providing student details via this [link](https://admissions.dkut.ac.ke/courses/123).
@@ -62,7 +56,7 @@
 ## Upcoming Intake:
 - Start Date: 1st October 2024
 - Ensure you complete the registration process before the start date.
-- 
+  
 ## Contact Information
 - For any inquiries or additional information, feel free to reach out: Email: ciscoacademy@dkut.ac.ke
 - [WhatsApp Group](https://chat.whatsapp.com/EgKFnUMCXWFKs2YuWTIU2H): Join the DeKUT Cisco Networking Academy WhatsApp Group for updates and community support.
