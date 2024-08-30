@@ -36,8 +36,11 @@
   - Reliable internet connection.
     
 ## Course Fees
-- DeKUT Students: KES 18,000
-- Non-DeKUT Students: KES 22,000
+- CCNA: Introduction to Networks KES 5,000
+- CCNA: Switching, Routing, and Wireless Essentials KES, 6,500
+- CCNA: Enterprise Networking, Security, and Automation KES 6,500
+  
+- Non-DeKUT Students: KES 22,000 (all the three modules) 
   
 - The fee includes:
   - Training sessions
